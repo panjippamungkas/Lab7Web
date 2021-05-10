@@ -7,6 +7,7 @@
 
 #### 1. Pada praktikum ke 7 ini saya sudah pernah menginstal dan melakukan konfigurasi xampp pada komputer saya.
 Dan dibawah ini tampilannya :
+
 ![screenshoot 1](screenshoot/1.png)
 
 #### 2. Pembuatan folder lab7_php_dasar pada root directory web server (d:\xampp\htdocs)
