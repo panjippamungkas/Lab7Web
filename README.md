@@ -19,6 +19,7 @@ Dibawah ini adalah tampilan untuk directory nya dengan mengakses link : http://l
 
 Coding :
 ![screenshoot 4.1](screenshoot/4.1.png)
+
 Tampilannya :
 ![screenshoot 4.2](screenshoot/4.2.png)
 
@@ -26,6 +27,7 @@ Tampilannya :
 
 Coding :
 ![screenshoot 5.1](screenshoot/5.1.png)
+
 Tampilannya :
 ![screenshoot 5.2](screenshoot/5.2.png)
 
@@ -33,6 +35,7 @@ Tampilannya :
 
 Coding :
 ![screenshoot 6.1](screenshoot/6.1.png)
+
 Tampilannya :
 ![screenshoot 6.2](screenshoot/6.2.png)
 
@@ -40,6 +43,7 @@ Tampilannya :
 
 Coding :
 ![screenshoot 7.1](screenshoot/7.1.png)
+
 Tampilannya :
 ![screenshoot 7.2](screenshoot/7.2.png)
 
@@ -47,6 +51,7 @@ Tampilannya :
 
 Coding :
 ![screenshoot 8.1](screenshoot/8.1.png)
+
 Tampilannya :
 ![screenshoot 8.2](screenshoot/8.2.png)
 
@@ -54,6 +59,7 @@ Tampilannya :
 
 Coding :
 ![screenshoot 9.1](screenshoot/9.1.png)
+
 Tampilannya :
 ![screenshoot 9.2](screenshoot/9.2.png)
 
@@ -61,6 +67,7 @@ Tampilannya :
 
 Coding :
 ![screenshoot 10.1](screenshoot/10.1.png)
+
 Tampilannya :
 ![screenshoot 10.2](screenshoot/10.2.png)
 
@@ -68,6 +75,7 @@ Tampilannya :
 
 Coding :
 ![screenshoot 11.1](screenshoot/11.1.png)
+
 Tampilannya :
 ![screenshoot 11.2](screenshoot/11.2.png)
 
@@ -75,6 +83,7 @@ Tampilannya :
 
 Coding :
 ![screenshoot 12.1](screenshoot/12.1.png)
+
 Tampilannya :
 ![screenshoot 12.2](screenshoot/12.2.png)
 
@@ -82,6 +91,7 @@ Tampilannya :
 
 Coding :
 ![screenshoot 13.1](screenshoot/13.1.png)
+
 Tampilannya :
 ![screenshoot 13.2](screenshoot/13.2.png)
 
